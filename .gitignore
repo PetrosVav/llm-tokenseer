@@ -146,7 +146,7 @@ dmypy.json
 data/*/*
 *.h5
 *.json
-*.json
+*.jsonl
 *.csv
 
 # Model checkpoints
@@ -160,3 +160,5 @@ wandb/
 
 # Mac files
 .DS_Store
+
+*.bin
